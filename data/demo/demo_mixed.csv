@@ -1,0 +1,101 @@
+age,experience_years,education,job_title,income,region,employment_status,enumerator_id,question_id
+38,16,Bachelor,Marketing Specialist,11363,Dammam,Self-employed,E002,Q10
+45,26,PhD,Security Guard,3047,Riyadh,Full-time,E013,Q10
+46,10,Master,Project Manager,28016,Jeddah,Full-time,E014,Q7
+30,5,High School,Cashier,7566,Jeddah,Full-time,E001,Q8
+45,22,High School,Security Guard,5978,Riyadh,Full-time,E005,Q7
+52,7,Master,Researcher,31592,Dammam,Part-time,E009,Q8
+49,26,PhD,Cashier,5938,Riyadh,Full-time,E009,Q10
+40,4,Master,Researcher,22501,Riyadh,Part-time,E010,Q8
+36,17,PhD,Senior Researcher,68892,Dammam,Self-employed,E012,Q9
+38,6,Master,Consultant,23815,Riyadh,Full-time,E013,Q10
+57,31,PhD,Research Director,38096,Jeddah,Full-time,E013,Q8
+50,27,Master,Data Scientist,36754,Jeddah,Self-employed,E014,Q6
+32,11,High School,Janitor,7220,Riyadh,Full-time,E013,Q7
+12,8,High School,Clerk,6032,Dammam,Full-time,E008,Q7
+45,26,PhD,Professor,64985,Riyadh,Part-time,E008,Q2
+58,17,PhD,Research Director,35142,Dammam,Full-time,E013,Q10
+47,23,Master,Project Manager,32884,Dammam,Full-time,E015,Q3
+37,2,PhD,Senior Researcher,64080,Riyadh,Unemployed,E015,Q10
+32,0,Diploma,Technician,8189,Riyadh,Self-employed,E013,Q6
+18,0,High School,Security Guard,5487,Riyadh,Full-time,E015,Q8
+16,10,PhD,Scientist,63748,Jeddah,Full-time,E010,Q10
+24,5,High School,Driver,3370,Riyadh,Full-time,E007,Q8
+35,0,Diploma,Administrative Assistant,0,Dammam,Full-time,E011,Q3
+20,24,Master,Senior Engineer,27556,Jeddah,Student,E005,Q3
+38,15,Bachelor,Designer,11935,Dammam,Full-time,E003,Q5
+27,0,Diploma,Technician,8720,Jeddah,Full-time,E014,Q9
+50,1,Diploma,Nurse,11934,Dammam,Full-time,E014,Q10
+37,8,High School,Worker,7653,Dammam,Part-time,E004,Q5
+32,1,PhD,Research Director,31319,Riyadh,Self-employed,E011,Q2
+45,25,Bachelor,Accountant,11483,Jeddah,Full-time,E013,Q10
+27,4,Bachelor,Teacher,10060,Jeddah,Full-time,E005,Q7
+25,0,High School,Security Guard,4007,Dammam,Full-time,E001,Q10
+32,12,PhD,Waiter,6527,Jeddah,Self-employed,E014,Q10
+34,9,Bachelor,HR Officer,19675,Dammam,Full-time,E009,Q7
+31,11,Bachelor,HR Officer,12008,Jeddah,Full-time,E005,Q6
+58,21,PhD,Scientist,61756,Riyadh,Full-time,E001,Q3
+22,40,High School,Security Guard,7890,Dammam,Full-time,E002,Q5
+32,12,Master,Researcher,36711,Riyadh,Full-time,E007,Q3
+49,25,PhD,Research Director,34678,Riyadh,Full-time,E011,Q5
+52,20,Bachelor,Accountant,10930,Dammam,Part-time,E007,Q1
+86,16,PhD,Research Director,66484,Dammam,Full-time,E014,Q6
+41,16,Diploma,Administrative Assistant,11104,Jeddah,Self-employed,E001,Q6
+54,17,PhD,Research Director,38171,Jeddah,Full-time,E004,Q8
+37,6,PhD,Scientist,66157,Jeddah,Full-time,E008,Q1
+50,26,PhD,Professor,66885,Jeddah,Full-time,E014,Q6
+21,15,Diploma,Technician,5150,Dammam,Student,E005,Q10
+76,0,High School,Janitor,6188,Jeddah,Full-time,E009,Q5
+31,8,Bachelor,Teacher,19705,Jeddah,Full-time,E015,Q4
+81,19,High School,Janitor,6932,Jeddah,Self-employed,E011,Q9
+25,0,Diploma,Technician,9218,Dammam,Full-time,E009,Q1
+31,3,PhD,Cashier,4561,Riyadh,Full-time,E002,Q3
+37,3,PhD,Research Director,56089,Riyadh,Self-employed,E005,Q9
+43,14,Bachelor,Analyst,19308,Riyadh,Full-time,E014,Q8
+25,5,Diploma,Lab Technician,9147,Jeddah,Full-time,E005,Q8
+45,14,Diploma,Administrative Assistant,10645,Jeddah,Self-employed,E003,Q7
+31,2,Master,Researcher,39347,Dammam,Full-time,E010,Q3
+30,5,High School,Waiter,6640,Dammam,Full-time,E001,Q5
+26,4,High School,Worker,6752,Jeddah,Full-time,E013,Q1
+35,3,Master,Financial Analyst,31209,Dammam,Self-employed,E006,Q9
+42,10,Bachelor,Software Developer,21099,Riyadh,Part-time,E007,Q5
+30,9,Diploma,Receptionist,71698,Jeddah,Unemployed,E005,Q8
+32,0,Bachelor,HR Officer,14855,Dammam,Part-time,E002,Q5
+35,6,High School,Worker,3093,Riyadh,Self-employed,E006,Q6
+39,21,Diploma,Administrative Assistant,10779,Dammam,Full-time,E008,Q7
+86,4,PhD,Professor,26854,Jeddah,Full-time,E011,Q1
+32,5,PhD,Security Guard,6313,Jeddah,Full-time,E011,Q5
+48,24,Bachelor,Designer,0,Dammam,Full-time,E006,Q7
+41,23,High School,Janitor,7169,Jeddah,Full-time,E014,Q8
+95,19,PhD,Research Director,57062,Jeddah,Full-time,E014,Q6
+19,12,PhD,Professor,75941,Riyadh,Self-employed,E005,Q8
+46,27,Bachelor,Marketing Specialist,24009,Dammam,Full-time,E014,Q6
+42,19,Master,Financial Analyst,32665,Dammam,Full-time,E011,Q9
+24,6,Diploma,Receptionist,5500,Riyadh,Part-time,E003,Q5
+24,2,Diploma,Receptionist,74559,Jeddah,Unemployed,E014,Q3
+45,19,Master,Researcher,32893,Jeddah,Self-employed,E003,Q4
+30,7,PhD,Waiter,5400,Riyadh,Self-employed,E015,Q9
+32,12,Bachelor,Software Developer,13367,Riyadh,Full-time,E014,Q7
+27,3,Diploma,Lab Technician,6742,Dammam,Full-time,E004,Q7
+44,6,Bachelor,Teacher,22433,Dammam,Self-employed,E008,Q10
+43,6,Diploma,Technician,11193,Dammam,Full-time,E015,Q10
+26,6,PhD,Security Guard,5134,Riyadh,Full-time,E002,Q5
+22,11,Bachelor,Designer,12520,Riyadh,Student,E008,Q9
+38,8,PhD,Professor,55211,Dammam,Full-time,E015,Q9
+30,5,Bachelor,Software Developer,9372,Jeddah,Full-time,E001,Q10
+24,17,PhD,Senior Researcher,50597,Riyadh,Self-employed,E008,Q1
+42,19,Diploma,Scientist,66216,Jeddah,Part-time,E001,Q3
+55,20,PhD,Senior Researcher,27705,Dammam,Full-time,E004,Q3
+36,15,High School,Worker,6126,Riyadh,Full-time,E013,Q8
+18,14,PhD,Senior Researcher,69733,Dammam,Full-time,E007,Q6
+33,3,PhD,Department Head,49149,Dammam,Part-time,E014,Q2
+50,7,Master,Senior Engineer,64388,Riyadh,Unemployed,E008,Q4
+24,2,PhD,Waiter,6931,Dammam,Full-time,E005,Q9
+51,32,PhD,Waiter,3838,Riyadh,Self-employed,E015,Q8
+30,5,Bachelor,Software Developer,23446,Riyadh,Self-employed,E001,Q9
+21,12,Diploma,Receptionist,7883,Jeddah,Student,E009,Q8
+33,5,PhD,Scientist,35786,Dammam,Full-time,E008,Q6
+34,2,Diploma,Technician,7820,Riyadh,Full-time,E011,Q10
+46,26,Diploma,Lab Technician,10680,Jeddah,Full-time,E013,Q3
+17,1,Diploma,Technician,10717,Jeddah,Full-time,E002,Q10
+28,10,PhD,Research Director,40597,Riyadh,Full-time,E011,Q5

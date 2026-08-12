@@ -1,0 +1,51 @@
+age,experience_years,education,job_title,income,region,employment_status,enumerator_id,question_id
+43,18,Diploma,Nurse,6640,Jeddah,Self-employed,E008,Q5
+36,13,Master,Data Scientist,38847,Riyadh,Full-time,E011,Q5
+30,11,PhD,Scientist,55705,Dammam,Self-employed,E006,Q3
+26,5,Master,Financial Analyst,28650,Dammam,Full-time,E014,Q3
+33,6,Bachelor,Teacher,21985,Dammam,Full-time,E007,Q4
+26,0,Diploma,Administrative Assistant,11241,Jeddah,Full-time,E007,Q9
+44,3,Master,Consultant,36388,Riyadh,Full-time,E010,Q4
+26,5,Diploma,Lab Technician,9878,Riyadh,Part-time,E006,Q5
+52,29,Bachelor,HR Officer,13564,Riyadh,Full-time,E006,Q6
+21,1,High School,Cashier,4234,Riyadh,Full-time,E010,Q6
+29,11,Bachelor,Designer,16638,Jeddah,Full-time,E004,Q7
+31,4,Bachelor,Accountant,16192,Jeddah,Full-time,E002,Q4
+30,8,Master,Project Manager,25484,Dammam,Full-time,E013,Q1
+40,20,PhD,Professor,32769,Dammam,Full-time,E015,Q3
+57,5,PhD,Department Head,36387,Dammam,Full-time,E004,Q3
+31,12,PhD,Department Head,61810,Dammam,Part-time,E003,Q1
+37,10,Diploma,Technician,6006,Riyadh,Full-time,E009,Q1
+49,13,PhD,Department Head,38622,Jeddah,Full-time,E014,Q3
+45,14,Master,Financial Analyst,22119,Jeddah,Full-time,E005,Q7
+25,4,Diploma,Lab Technician,6613,Jeddah,Part-time,E003,Q8
+43,0,Bachelor,HR Officer,15305,Jeddah,Part-time,E002,Q1
+43,17,PhD,Professor,53283,Dammam,Full-time,E008,Q6
+71,23,Bachelor,Accountant,15376,Riyadh,Full-time,E015,Q7
+31,4,Bachelor,Designer,13288,Jeddah,Full-time,E014,Q7
+27,0,Bachelor,HR Officer,11984,Jeddah,Full-time,E010,Q3
+39,13,High School,Cashier,5239,Jeddah,Full-time,E002,Q9
+38,18,Diploma,Technician,8533,Dammam,Full-time,E003,Q5
+50,0,Diploma,Receptionist,6019,Dammam,Full-time,E003,Q10
+46,20,Diploma,Administrative Assistant,9522,Jeddah,Self-employed,E010,Q5
+30,6,High School,Waiter,5307,Dammam,Full-time,E008,Q4
+29,6,Bachelor,HR Officer,23316,Jeddah,Full-time,E013,Q4
+26,6,High School,Waiter,4716,Dammam,Full-time,E009,Q3
+53,8,PhD,Professor,58110,Dammam,Full-time,E005,Q5
+40,9,PhD,Scientist,56442,Riyadh,Part-time,E011,Q10
+42,23,High School,Driver,3830,Jeddah,Full-time,E012,Q4
+36,1,PhD,Research Director,68966,Riyadh,Part-time,E002,Q7
+51,17,Master,Senior Engineer,30137,Dammam,Full-time,E012,Q5
+54,6,PhD,Scientist,63273,Jeddah,Full-time,E007,Q3
+46,3,Master,Project Manager,26092,Dammam,Full-time,E015,Q6
+20,2,Diploma,Nurse,8129,Jeddah,Full-time,E013,Q3
+28,8,Bachelor,Accountant,22042,Riyadh,Part-time,E015,Q3
+28,0,Diploma,Receptionist,10553,Jeddah,Full-time,E011,Q9
+28,5,Diploma,Lab Technician,7846,Dammam,Full-time,E008,Q10
+39,9,High School,Driver,6136,Jeddah,Full-time,E009,Q6
+22,4,Diploma,Receptionist,7196,Jeddah,Full-time,E006,Q8
+43,3,Diploma,Lab Technician,5404,Dammam,Full-time,E001,Q2
+39,6,Master,Data Scientist,31459,Riyadh,Full-time,E002,Q6
+37,9,Bachelor,Analyst,9830,Dammam,Full-time,E011,Q9
+42,10,Bachelor,Teacher,18784,Dammam,Full-time,E004,Q9
+33,4,Bachelor,Software Developer,19455,Jeddah,Full-time,E005,Q6

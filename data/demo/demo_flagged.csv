@@ -1,0 +1,51 @@
+age,experience_years,education,job_title,income,region,employment_status,enumerator_id,question_id
+38,15,PhD,Cashier,3486,Jeddah,Full-time,E009,Q10
+71,1,Diploma,Lab Technician,5403,Dammam,Full-time,E013,Q9
+45,25,PhD,Janitor,5481,Riyadh,Full-time,E012,Q10
+43,4,High School,Worker,6014,Dammam,Full-time,E001,Q8
+30,5,PhD,Department Head,54272,Jeddah,Full-time,E001,Q7
+28,5,Diploma,Surgeon,63661,Dammam,Full-time,E007,Q9
+30,5,PhD,Research Director,60758,Dammam,Full-time,E001,Q3
+45,17,PhD,Security Guard,5815,Jeddah,Full-time,E009,Q6
+21,3,PhD,Professor,54662,Dammam,Full-time,E001,Q3
+43,10,Diploma,Nurse,10584,Riyadh,Self-employed,E003,Q6
+55,14,Master,Data Scientist,39623,Riyadh,Full-time,E003,Q2
+41,13,Diploma,Surgeon,73913,Dammam,Part-time,E003,Q10
+30,45,Bachelor,Accountant,18078,Jeddah,Part-time,E008,Q10
+23,9,PhD,Professor,53334,Dammam,Full-time,E002,Q3
+33,1,High School,Surgeon,79803,Riyadh,Self-employed,E003,Q10
+79,1,Diploma,Lab Technician,9561,Dammam,Full-time,E005,Q5
+29,0,PhD,Security Guard,4637,Dammam,Part-time,E008,Q10
+26,1,PhD,Waiter,3468,Dammam,Part-time,E006,Q7
+51,33,PhD,Security Guard,3004,Jeddah,Full-time,E006,Q5
+52,20,PhD,Research Director,67563,Riyadh,Full-time,E012,Q1
+43,13,Bachelor,Software Developer,85435,Jeddah,Unemployed,E005,Q9
+39,7,Diploma,Nurse,5229,Jeddah,Full-time,E003,Q8
+72,3,Diploma,Lab Technician,10952,Riyadh,Self-employed,E004,Q2
+14,4,PhD,Senior Researcher,67584,Riyadh,Full-time,E007,Q4
+34,48,Master,Senior Engineer,16679,Riyadh,Self-employed,E014,Q1
+22,0,High School,Driver,3079,Riyadh,Full-time,E014,Q8
+58,9,High School,Surgeon,48212,Dammam,Full-time,E010,Q9
+50,26,PhD,Senior Researcher,50070,Dammam,Unemployed,E006,Q4
+38,14,Diploma,Nurse,8566,Riyadh,Full-time,E006,Q3
+50,3,Diploma,Nurse,7477,Riyadh,Self-employed,E011,Q10
+41,51,Master,Researcher,34989,Jeddah,Full-time,E004,Q6
+38,52,High School,Worker,5773,Riyadh,Full-time,E015,Q1
+50,0,Diploma,Lab Technician,64876,Riyadh,Unemployed,E006,Q10
+39,21,PhD,Research Director,68488,Dammam,Unemployed,E012,Q2
+18,19,PhD,Scientist,39041,Dammam,Student,E001,Q9
+25,3,Diploma,Receptionist,10227,Jeddah,Full-time,E013,Q1
+26,1,Diploma,Scientist,64363,Dammam,Part-time,E003,Q7
+39,19,High School,Worker,87988,Jeddah,Unemployed,E005,Q4
+50,15,Master,Financial Analyst,21537,Jeddah,Full-time,E003,Q1
+23,5,Diploma,Surgeon,69298,Riyadh,Full-time,E015,Q1
+22,16,PhD,Professor,72137,Riyadh,Full-time,E002,Q3
+42,18,Master,Consultant,21067,Jeddah,Full-time,E005,Q4
+21,24,High School,Cashier,6403,Dammam,Student,E011,Q1
+30,5,PhD,Department Head,41392,Riyadh,Full-time,E001,Q1
+46,27,High School,Driver,0,Jeddah,Full-time,E001,Q8
+32,3,Diploma,Administrative Assistant,8299,Riyadh,Full-time,E012,Q7
+95,11,High School,Worker,4574,Jeddah,Full-time,E008,Q7
+35,12,PhD,Research Director,32646,Jeddah,Unemployed,E009,Q9
+30,9,High School,Scientist,78346,Riyadh,Full-time,E012,Q9
+16,12,PhD,Department Head,44871,Jeddah,Full-time,E005,Q10

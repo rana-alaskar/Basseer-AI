@@ -1,0 +1,26 @@
+age,experience_years,education,job_title,income,region,employment_status,enumerator_id,question_id
+27,0,Master,Financial Analyst,25567,Dammam,Part-time,E002,Q3
+33,8,PhD,Research Director,64953,Dammam,Full-time,E006,Q6
+35,16,Bachelor,Accountant,13128,Jeddah,Part-time,E005,Q6
+37,5,Master,Researcher,27250,Jeddah,Self-employed,E007,Q10
+47,24,Diploma,Technician,0,Dammam,Full-time,E013,Q2
+30,12,PhD,Scientist,42881,Riyadh,Full-time,E007,Q10
+41,2,PhD,Senior Researcher,40062,Riyadh,Full-time,E013,Q5
+49,5,PhD,Department Head,31858,Riyadh,Unemployed,E013,Q10
+42,11,Bachelor,Analyst,0,Jeddah,Full-time,E001,Q8
+33,7,Master,Data Scientist,15830,Jeddah,Full-time,E003,Q10
+45,21,Bachelor,Marketing Specialist,15565,Riyadh,Full-time,E004,Q5
+36,4,Bachelor,Teacher,22033,Jeddah,Full-time,E003,Q4
+51,33,Master,Senior Engineer,39321,Riyadh,Full-time,E009,Q5
+43,9,Master,Project Manager,23444,Dammam,Full-time,E003,Q4
+48,8,Bachelor,Accountant,30826,Jeddah,Unemployed,E005,Q7
+34,9,PhD,Department Head,42782,Riyadh,Full-time,E007,Q2
+50,4,Bachelor,HR Officer,14499,Dammam,Self-employed,E007,Q10
+22,4,Diploma,Administrative Assistant,10374,Jeddah,Self-employed,E004,Q7
+42,1,Diploma,Administrative Assistant,5106,Dammam,Full-time,E014,Q9
+19,3,PhD,Professor,66271,Riyadh,Part-time,E003,Q6
+32,14,Master,Data Scientist,35954,Riyadh,Full-time,E002,Q8
+40,6,Master,Financial Analyst,18057,Dammam,Full-time,E003,Q5
+50,13,Diploma,Receptionist,10575,Riyadh,Full-time,E002,Q3
+37,14,PhD,Professor,37688,Dammam,Self-employed,E010,Q3
+24,33,Bachelor,Software Developer,22109,Dammam,Full-time,E004,Q5
